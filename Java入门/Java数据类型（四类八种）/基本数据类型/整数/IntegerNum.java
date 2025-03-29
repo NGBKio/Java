@@ -2,7 +2,7 @@
 * 整数又分为byte(字节)、short、int、long
 */
 
-public class VariableDemo{
+public class IntegerNum{
     public static void main(String[] args){
         // 整数
         // byte
